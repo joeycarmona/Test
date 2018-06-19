@@ -4,6 +4,7 @@ var test = function(a, b){
     return a + b;
 }
 
+This should create a conflict I need to resolve
 
 #Lets try conflict resolution
 ## Im going to write a whole buch of code that will need to be resolved
